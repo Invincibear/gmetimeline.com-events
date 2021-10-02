@@ -1042,6 +1042,21 @@
       ]
     },
     {
+      "headline": "Robinhood CEO Vlad Tenev Details 3:30am $3B collateral demand phone call",
+      "description": "",
+      "source": [
+        "https://www.cnn.com/2021/02/01/investing/robinhood-gamestop-vlad-tenev",
+        ""
+      ],
+      "icon": "fas fa-feather-alt",
+      "tags": [
+        "Robinhood",
+        "DTCC",
+        "broker-dealer"
+      ],
+      "todo": true
+    },
+    {
       "headline": "u/DeepFuckingValue YOLO Update",
       "description": "<img src=\"/img/DFV-20210201.png\" class=\"DFVYOLO\" width=\"960\" height=\"189\" loading=\"lazy\">DFV sees ~$10.2M in unrealized gains disappear, still holds 50k shares and 500x 4/16/2021 $12 calls. Account balance, including cash and realized & unrealized gains, totals ~$35.8M",
       "source": "https://www.reddit.com/r/wallstreetbets/comments/lae6j0/gme_yolo_update_feb_1_2021/",
@@ -6787,7 +6802,7 @@
       "description": "<img src=\"/img/20210923-ComputerShareAccounts.jpg\" alt=\"Research by u/iamthinksnow\" width=\"779\" height=\"685\" loading=\"lazy\"> By comparing account numbers shown in screenshots by apes transferring their shares to ComputerShare, a rough estimate of accounts has been derived. This is similar to apes in late 2020 tracking GameStop's orders leaked by their website's incremental integer-based order number system (as opposed to using a GUID-based system). ComputerShare account numbers have increased from ~40,000 on Aug 12, 2021 to ~60,000 by Aug 24, 2021, and now have reached ~250,000 today.",
       "source": [
         "https://www.reddit.com/r/Superstonk/comments/ptwr2g/cs_account_numbers_explode_from_40k_on_aug_12_60k/",
-        ""
+        "https://www.reddit.com/r/Superstonk/comments/pu40ur/holy_moly_computershare_moassameter_210k_accounts/"
       ],
       "icon": "fab fa-cuttlefish",
       "tags": [
@@ -6895,6 +6910,19 @@
       "tags": [
         "Fed"
       ]
+    },
+    {
+      "headline": "ComputerShare Accounts Reach 383,xxx",
+      "description": "<img src=\"/img/ComputerShare-20210930.jpg\" alt=\"Screenshot by u/stopfuckingwithme\" width=\"720\" height=\"1071\" loading=\"lazy\">",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/pyzppj/cs_moassameter_new_high_score_winner_383k_930/",
+        ""
+      ],
+      "icon": "fas fa-laptop",
+      "tags": [
+        "ComputerShare"
+      ],
+      "hidden": true
     }
   ],
   "2021-12-31": [
