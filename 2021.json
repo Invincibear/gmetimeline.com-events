@@ -958,6 +958,19 @@
       "tags": [
         "news"
       ]
+    },
+    {
+      "headline": "Robinhood Customer Claims Options Sold Before Hitting Risk Window",
+      "description": "",
+      "source": [
+        "https://www.reddit.com/r/ClassActionRobinHood/comments/l945bo/my_evidence_of_robinhood_selling_my_options/",
+        "https://www.reddit.com/r/ClassActionRobinHood/comments/lad5wz/robinhood_also_blocking_me_from_exercising_my/"
+      ],
+      "icon": "fas fa-feather-alt",
+      "tags": [
+        "Robinhood"
+      ],
+      "hidden": true
     }
   ],
   "2021-01-31": [
@@ -992,7 +1005,8 @@
       "description": "Elon Musk grills Vlad for answers to uneasy questions.",
       "source": [
         "https://www.youtube.com/watch?v=UDz3FVuRURQ",
-        "https://fortune.com/2021/02/01/the-latest-in-the-wework-saga-involves-a-spac-2/"
+        "https://fortune.com/2021/02/01/the-latest-in-the-wework-saga-involves-a-spac-2/",
+        "https://www.cnn.com/2021/02/01/investing/robinhood-gamestop-vlad-tenev"
       ],
       "icon": "fas fa-hand-paper",
       "tags": [
@@ -1040,21 +1054,6 @@
       "tags": [
         "news"
       ]
-    },
-    {
-      "headline": "Robinhood CEO Vlad Tenev Details 3:30am $3B collateral demand phone call",
-      "description": "",
-      "source": [
-        "https://www.cnn.com/2021/02/01/investing/robinhood-gamestop-vlad-tenev",
-        ""
-      ],
-      "icon": "fas fa-feather-alt",
-      "tags": [
-        "Robinhood",
-        "DTCC",
-        "broker-dealer"
-      ],
-      "todo": true
     },
     {
       "headline": "u/DeepFuckingValue YOLO Update",
@@ -6336,9 +6335,26 @@
       ]
     }
   ],
+  "2021-08-16": [
+    {
+      "headline": "SEC-Approved SR-NSCC-005 Published, Not Yet In Effect",
+      "description": "NSCC-005 increases the fixed amount of collateral required for NSCC members to put up from $10,000 to $250,000; this in done in order to protect themselves and non-defaulting members. This may potentially impact the budget constraints of small-cap hedge funds.",
+      "source": [
+        "https://public-inspection.federalregister.gov/2021-17541.pdf",
+        "https://www.reddit.com/r/Superstonk/comments/p5kr5z/nscc005_approval_accelerated_publication_tomorrow/",
+        "https://www.removeddit.com/r/Superstonk/comments/p693ij/srnscc2021005_published_requires_each_member/"
+      ],
+      "icon": "fas fa-university",
+      "tags": [
+        "DTCC",
+        "filings",
+        "SEC"
+      ]
+    }
+  ],
   "2021-08-17": [
     {
-      "headline": "GameStop Now Offers &gt;40,000 Products Online",
+      "headline": "GameStop Now Offers 40,000+ Products Online",
       "description": "<img src=\"/img/20210817-40k_products.png\" alt=\"\" width=\"1600\" height=\"900\" loading=\"lazy\">",
       "source": [
         "https://www.reddit.com/r/Superstonk/comments/p6djfa/gamestopcom_is_closing_in_on_40000_products/"
@@ -6355,6 +6371,7 @@
       "description": "<img src=\"/img/TDA-IEX.jpg\" alt=\"Meme by u/Enza_Gallagher\" width=\"501\" height=\"498\" loading=\"lazy\">TD Ameritrade does not send orders destined for IEX directly, it instead routes them to Citadel, essentially defeating the entire point of IEX which is to eliminate the chance of front-running trades.",
       "source": [
         "https://www.reddit.com/r/Superstonk/comments/p7jzq0/got_a_response_from_td_ameritrade_on_the_trades/",
+        "https://www.reddit.com/r/Superstonk/comments/p86syw/well_fuck_ameritrade_i_confirmed_it_too_they_send/",
         "https://www.reddit.com/r/Superstonk/comments/p6vsaj/anyone_else_on_tda_seeing_their_iex_routed_orders/h9gag5k/",
         "https://www.reddit.com/r/Superstonk/comments/p87k6h/finding_out_td_sends_my_direct_iex_routing_orders/"
       ],
@@ -6363,6 +6380,20 @@
         "Citadel",
         "broker-dealer",
         "TDA"
+      ]
+    },
+    {
+      "headline": "Donnahue George Files Antitrust Lawsuit Against Citadel",
+      "description": "<img src=\"/img/20210819-Citadel_lawsuit.png\" alt=\"\" width=\"581\" height=\"581\" loading=\"lazy\">",
+      "source": [
+        "https://twitter.com/donnahuegeorge/status/1428443164478693390",
+        "https://twitter.com/DonnahueGeorge/status/1428446407988555779",
+        "https://twitter.com/DonnahueGeorge/status/1428507885521276931",
+        "https://www.reddit.com/r/amcstock/comments/p7mw20/donnahuegeorge_on_twitter_about_suing_citadel/"
+      ],
+      "icon": "fas fa-gavel",
+      "tags": [
+        "lawsuit"
       ]
     }
   ],
@@ -6561,6 +6592,20 @@
         "resignation",
         "NFT"
       ]
+    },
+    {
+      "headline": "Adult Swim Calls Out $GME In Rick & Morty Commercial",
+      "description": "<img src=\"/img/20210809-AdultSwim.png\" alt=\"\" width=\"480\" height=\"207\" loading=\"lazy\">Not so good news... inflation. Good news... $GME.\n\nIn the scene immediately after that Rick goes “just push anything we're literally too big to fail”. They immediately after that, pulled in synthetic copies of the collectible robot into their universe that then caused anarchy and they failed. Parallels can be drawn to Citadel's current/predicted situation.",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/pg45vd/so_adult_swim_is_name_dropping_gme_in_commercials/",
+        "https://twitter.com/adultswim/status/1424777497426661382",
+        "https://www.reddit.com/r/GME/comments/p15mdf/adult_swim_holding/"
+      ],
+      "icon": "fas fa-tv",
+      "tags": [
+        "$GME",
+        "Twitter"
+      ]
     }
   ],
   "2021-09-08": [
@@ -6639,13 +6684,25 @@
     },
     {
       "headline": "~4.5M Shares Hiding In Brazilian JGP Global Puts",
-      "description": "<img src=\"/img/20210910-Brazilian_puts.png\" alt=\"Screenshot by u/NightHawkRambo\" width=\"1917\" height=\"828\" loading=\"lazy\">",
+      "description": "<img src=\"/img/20210910-Brazilian_puts.png\" alt=\"Screenshot by u/NightHawkRambo\" width=\"1917\" height=\"828\" loading=\"lazy\"> These puts would later disappear the following day.",
       "source": [
         "https://www.reddit.com/r/Superstonk/comments/plxc2m/bloomberg_terminal_released_45m_shares_hiding_in/"
       ],
       "icon": "fas fa-search-dollar",
       "tags": [
         "glitches"
+      ]
+    },
+    {
+      "headline": "~4.7M Shares Available To Borrow From Fidelity, ~3.5M More Than Previous Day",
+      "description": "<img src=\"/img/20210910-Fidelity_shares_available.png\" alt=\"Screenshot by u/enfiniti27\" width=\"391\" height=\"189\" loading=\"lazy\">",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/pln5zo/47_million_short_shares_available_on_fidelity_35m/"
+      ],
+      "icon": "fas fa-ticket-alt",
+      "tags": [
+        "Fidelity",
+        "$GME"
       ]
     }
   ],
@@ -6859,6 +6916,20 @@
       "tags": [
         "Fed"
       ]
+    },
+    {
+      "headline": "Evergrande Sells 1.75B Shengjing Bank Shares For ~$1.5B",
+      "description": "Part of liquidation efforts to cover outstanding debts.",
+      "source": [
+        "https://www.reuters.com/world/china/china-evergrande-transfer-15-bln-stake-shengjing-bank-state-firm-2021-09-29/",
+        "https://www.reddit.com/r/Superstonk/comments/pxjdpj/evergrande_sells_175b_shares/"
+      ],
+      "icon": "fas fa-dizzy",
+      "tags": [
+        "margin-call",
+        "Evergrande"
+      ],
+      "hidden": true
     }
   ],
   "2021-09-29": [
