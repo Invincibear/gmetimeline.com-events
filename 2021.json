@@ -6996,6 +6996,21 @@
       "hidden": true
     }
   ],
+  "2021-10-01": [
+    {
+      "headline": "ComputerShare Accounts Reach 398,xxx",
+      "description": "<img src=\"/img/ComputerShare-20211001.jpg\" alt=\"Screenshot by u/stopfuckingwithme\" width=\"720\" height=\"1071\" loading=\"lazy\">",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/pznkq6/cs_moassameter_new_high_score_winner_398k_1001/",
+        ""
+      ],
+      "icon": "fas fa-laptop",
+      "tags": [
+        "ComputerShare"
+      ],
+      "hidden": true
+    }
+  ],
   "2021-12-31": [
     {
       "headline": "A message from gmetimeline.com",
@@ -7010,7 +7025,7 @@
       ]
     }
   ],
-  "2021-09-02": [
+  "2021-12-30": [
     {
       "headline": "",
       "description": "<img src=\"/img/1x1.png\" alt=\"\" width=\"\" height=\"\" loading=\"lazy\">",
