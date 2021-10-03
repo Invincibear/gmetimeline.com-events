@@ -7059,14 +7059,27 @@
   "2021-10-02": [
     {
       "headline": "EB Games In Canada's Capital Officially Becomes GameStop",
-      "description": "<img src=\"/img/20211002-GameStop_Ottawa.png\" alt=\"Picture by u/Ward-Ranger\" width=\"800\" height=\"600\" loading=\"lazy\">After <a href=\"#GameStopRebrandsCanadianSubsidiaryEBGamestoGameStop-2021-07-28\">previously announcing their intention to rebrand EB Games locations in Canada to GameStop</a>, updated signs are being rolled out to locations. The location in Rideau Center, Ottawa, Ontario, Canada, is no longer an EB Games location and now touts a Canadian GameStop sign on it's storefront.",
+      "description": "<img src=\"/img/20211002-GameStop_Ottawa.png\" alt=\"Picture by u/Ward-Ranger\" width=\"800\" height=\"600\" loading=\"lazy\">After previously announcing their intention to <a href=\"#GameStopRebrandsCanadianSubsidiaryEBGamestoGameStop-2021-07-28\">rebrand EB Games locations in Canada to GameStop</a>, updated signs are being rolled out to locations. The location in Rideau Centre, Ottawa, Ontario, Canada, is no longer an EB Games location and now touts a Canadian GameStop sign on it's storefront.",
       "source": [
         "https://www.reddit.com/r/Superstonk/comments/q08hps/ebgames_in_the_capital_of_canada_now_officially_a/",
-        ""
+        "https://news.gamestop.com/news-releases/news-release-details/gamestop-rebrand-eb-games-canada"
       ],
       "icon": "fas fa-people-carry",
       "tags": [
         "transformation"
+      ]
+    },
+    {
+      "headline": "ComputerShare Accounts Reach 407,xxx",
+      "description": "<img src=\"/img/ComputerShare-20211002-Woodstock.jpg\" alt=\"\" width=\"960\" height=\"640\" loading=\"lazy\">At ~400k accounts, this rivals the size of Woodstock which hosts roughly as many attendees.",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/q09kmk/computershare_new_high_score_winner_1002/",
+        "https://www.reddit.com/r/GMEJungle/comments/q09o9l/computershare_new_high_score_winner_1002/",
+        "https://www.reddit.com/r/Superstonk/comments/q07eq9/registered_accounts_woodstock_which_also_had/"
+      ],
+      "icon": "fas fa-laptop",
+      "tags": [
+        "ComputerShare"
       ]
     }
   ],
