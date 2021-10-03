@@ -6624,9 +6624,11 @@
   "2021-09-09": [
     {
       "headline": "CNBC Interview With Loop Capital's Anthony Chukumba",
-      "description": "<iframe src=\"https://streamable.com/e/my3e9q\" frameborder=\"0\" width=\"100%\" height=\"100%\" allowfullscreen></iframe><a href=\"#LoopCapitalMarketsAnalystAnthonyChukumbaVowsToNeverCoverGameStopStockEverAgain-2021-07-02\">Even though he vowed</a> &quot;to never cover GameStop stock ever again&quot;, he still values it at $10/share. The internet mocked him relentlessly for his blatant ignorance.\n\nAccording to u/DacheinAus, &quot;$10 x 76M shares outstanding is $760M. He’s saying a company with a 1.1B revenue stream and 1.7B in cash is worth $1B less than the CASH they have on hand. Yep. That makes sense&quot;\n\n<a href=\"https://twitter.com/DOMOCAPITAL/status/1436070429899337739\" target=\"_blank\">According to DOMO Capital</a>, all of Chukumba's clients who had positions in $GME in 2020 were short in $GME.",
+      "description": "<iframe src=\"https://streamable.com/e/my3e9q\" frameborder=\"0\" width=\"100%\" height=\"100%\" allowfullscreen></iframe><a href=\"#LoopCapitalMarketsAnalystAnthonyChukumbaVowsToNeverCoverGameStopStockEverAgain-2021-07-02\">Even though he vowed</a> &quot;to never cover GameStop stock ever again&quot;, he still values it at $10/share. He then posted the interview on his LinkedIn following &quot;Don’t hate the player, hate the GameStop…&quot;. The internet mocked him relentlessly for his blatant ignorance.\n\nAccording to u/DacheinAus, &quot;$10 x 76M shares outstanding is $760M. He’s saying a company with a 1.1B revenue stream and 1.7B in cash is worth $1B less than the CASH they have on hand. Yep. That makes sense&quot;\n\n<a href=\"https://twitter.com/DOMOCAPITAL/status/1436070429899337739\" target=\"_blank\">According to DOMO Capital</a>, all of Chukumba's clients who had positions in $GME in 2020 were short in $GME.",
       "source": [
+        "https://www.cnbc.com/video/2021/09/09/gamestops-earnings-call-was-absolutely-shameful-loops-chukumba.html",
         "https://streamable.com/my3e9q#",
+        "https://www.linkedin.com/posts/anthony-chukumba-28a4b5_gamestops-earnings-call-was-absolutely-activity-6841687386737434624-Vrm_",
         "https://twitter.com/DOMOCAPITAL/status/1436070429899337739",
         "https://www.reddit.com/r/Superstonk/comments/pkvxdz/cnbc_interview_trying_hard_to_create_a_narrative/",
         "https://www.reddit.com/r/Superstonk/comments/pkwfuo/he_clearly_stated_he_does_not_cover_the_stock_and/",
@@ -6943,8 +6945,21 @@
       "icon": "fas fa-laptop",
       "tags": [
         "ComputerShare"
+      ]
+    },
+    {
+      "headline": "TD Ameritrade Claims ComputerShare Has Delays, ComputerShare Denies",
+      "description": "<img src=\"/img/ComputerShare-20210929-NoDelay.png\" alt=\"Screenshot by u/Significant-Foot1908\" width=\"432\" height=\"352\" loading=\"lazy\">",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/py7vs0/the_delay_is_on_the_transfer_agents_side/",
+        "https://www.reddit.com/r/Superstonk/comments/pyb7wo/dont_let_your_broker_dick_you_around_ask_to_be/"
       ],
-      "hidden": true
+      "icon": "fas fa-laptop",
+      "tags": [
+        "ComputerShare",
+        "TDA",
+        "broker-dealer"
+      ]
     },
     {
       "headline": "Fed Overnight Reverse REPO Volume Hits Record High, Again",
@@ -6992,6 +7007,19 @@
       "icon": "fas fa-laptop",
       "tags": [
         "ComputerShare"
+      ]
+    },
+    {
+      "headline": "ComputerShare ",
+      "description": "<img src=\"/img/ComputerShare-20210930-NFT_email.png\" alt=\"Screenshot by u/genlink\" width=\"512\" height=\"698\" loading=\"lazy\">",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/pyqtdm/gamestop_nft_dividend_confirmation_from/",
+        ""
+      ],
+      "icon": "fas fa-ethereum",
+      "tags": [
+        "ComputerShare",
+        "NFT"
       ],
       "hidden": true
     }
@@ -7007,6 +7035,23 @@
       "icon": "fas fa-laptop",
       "tags": [
         "ComputerShare"
+      ]
+    },
+    {
+      "headline": "Bank of America Service Issues",
+      "description": "<img src=\"/img/20211001-BofA_outages.png\" alt=\"Bank of America reported outages spike to ~12,000\" width=\"560\" height=\"433\" loading=\"lazy\">Customers report inability to access funds online and via ABM. Bank Of America in the Bank of America Building in Tampa, FL closed suddenly.",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/pzabkc/bank_of_america_services_are_currently_down_and/",
+        "https://www.reddit.com/r/Superstonk/comments/pzhbub/bank_of_america_in_the_bank_of_america_building/",
+        "https://www.reddit.com/r/Superstonk/comments/pzlqa5/has_anyone_been_paying_attention_to_bofa_twitter/",
+        "https://www.reddit.com/r/Superstonk/comments/pzcti1/hello_bank_the_place_that_has_lots_of_money_id/",
+        "https://www.reddit.com/r/Superstonk/comments/pzgun9/with_bofa_down_today_and_the_1_trillion_in/",
+        "https://www.reddit.com/r/Superstonk/comments/pzpkal/as_a_banker_i_can_say_this_event_with_bank_of/",
+        "https://www.reddit.com/r/Superstonk/comments/pzwkf5/comments_for_boa_on_downdetectorcom_getting_juicy/"
+      ],
+      "icon": "fas fa-piggy-bank",
+      "tags": [
+        "BofA"
       ],
       "hidden": true
     }
