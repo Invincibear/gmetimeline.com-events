@@ -755,7 +755,7 @@
     },
     {
       "headline": "Jon Stewart Creates Twitter Account And Makes First Tweet",
-      "description": "<blockquote class=\"twitter-tweet\" data-lang=\"en\" data-theme=\"dark\"><p lang=\"en\" dir=\"ltr\">This is bullshit. The Redditors aren't cheating, they're joining a party Wall Street insiders have been enjoying for years. Don't shut them down...maybe sue them for copyright infringement instead!!<br>We've learned nothing from 2008.<br>Love<br>StewBeef</p>&mdash; Jon Stewart (@jonstewart) <a href=\"https://twitter.com/jonstewart/status/1354901018564321287?ref_src=twsrc%5Etfw\">January 28, 2021</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+      "description": "<img src=\"/img/20210128-Jon_Stewart.png\" width=\"723\" height=\"472\" loading=\"lazy\">",
       "source": [
         "https://twitter.com/jonstewart/status/1354901018564321287",
         "https://www.reddit.com/r/Superstonk/comments/o2a8n1/say_it_again_for_the_apes_in_the_back_this_was/"
@@ -1365,7 +1365,7 @@
         "https://www.reddit.com/r/GME/comments/ls830a/found_the_reason_for_the_dip_they_are_shorting/",
         "https://www.reddit.com/r/GME/comments/lrijdv/my_theory_for_todays_market_close_get_ready_for_a/"
       ],
-      "icon": "fas fa-",
+      "icon": "fas fa-shopping-basket",
       "tags": [
         "$GME",
         "$XRT"
@@ -1937,7 +1937,7 @@
       "headline": "9 ETFs Containing $GME Show Remarkably Similar Price Graphs",
       "description": "<img src=\"/img/9_ETFs.jpg\" alt=\"Screenshot showing correlated ETF price graphs\" width=\"640\" height=\"927\" loading=\"lazy\">",
       "source": "https://www.reddit.com/r/GME/comments/mfve8p/lets_compare_9_etfs_containing_gme_today/",
-      "icon": "fab fa-reddit",
+      "icon": "fas fa-shopping-basket",
       "tags": [
         "ETF",
         "$GME"
@@ -6901,7 +6901,38 @@
       ]
     }
   ],
+  "2021-09-27": [
+    {
+      "headline": "Dallas Fed Presidents Kaplan & Rosengren to Retire Early",
+      "description": "Dallas Fed President Robert Kaplan said Monday he is stepping down from his position following a <a href=\"#TwoFederalReservePresidentsSellStocksDueToEthicsConcerns-2021-09-09\">controversy over his stock holdings</a>. Boston Fed President Eric Rosengren, who had come under similar scrutiny, announced earlier in the day that he was retiring.",
+      "source": [
+        "https://www.cnbc.com/2021/09/27/dallas-fed-president-kaplan-to-retire-early-on-oct-8-citing-trading-disclosure-distraction.html",
+        "https://www.reddit.com/r/stocks/comments/pwqgq9/dallas_fed_president_kaplan_to_retire_early_on/"
+      ],
+      "icon": "fas fa-hiking",
+      "tags": [
+        "Fed"
+      ],
+      "hidden": true
+    }
+  ],
   "2021-09-28": [
+    {
+      "headline": "Citadel Breaks ~8mo Twitter Silence, Responds To Allegations",
+      "description": "<img src=\"/img/1x1.png\" alt=\"\" width=\"\" height=\"\" loading=\"lazy\">",
+      "source": [
+        "https://twitter.com/citsecurities/status/1442953679061929986",
+        "https://twitter.com/citsecurities/status/1442953101061734402",
+        "https://twitter.com/citsecurities/status/1442953926538498053",
+        "https://www.bloomberg.com/news/articles/2021-09-28/griffin-robinhood-strike-back-at-fresh-outrage-over-gamestop",
+        "https://www.reddit.com/r/Superstonk/comments/pxfirf/someone_got_triggered/",
+        "https://www.reddit.com/r/Superstonk/comments/pwta23/citadel_posts_for_the_first_time_since_january_to/"
+      ],
+      "icon": "fas fa-poo",
+      "tags": [
+        "Citadel"
+      ]
+    },
     {
       "headline": "Fed Overnight Reverse REPO Volume Hits Record High",
       "description": "<img src=\"/img/Fed-ONRREPO-20210928.png\" alt=\"Meme by u/TheLeagueOfScience\" width=\"639\" height=\"554\" loading=\"lazy\">$1.365185  trillion in daily reverse repo operations awarded at 0.05% interest to 83 Participants, setting another new all-time high.",
@@ -7010,6 +7041,20 @@
       ]
     },
     {
+      "headline": "Citadel Continues Twitter Rant",
+      "description": "<img src=\"/img/1x1.png\" alt=\"\" width=\"\" height=\"\" loading=\"lazy\">",
+      "source": [
+        "https://twitter.com/citsecurities/status/1443660583862161417",
+        "https://twitter.com/citsecurities/status/1443660601499308033",
+        "https://twitter.com/citsecurities/status/1443700394723586049"
+      ],
+      "icon": "fas fa-poo",
+      "tags": [
+        "Citadel"
+      ],
+      "hidden": true
+    },
+    {
       "headline": "Fed Overnight Reverse REPO Volume Hits Record High, Yet Again",
       "description": "<img src=\"/img/Fed-ONRREPO-20210930.png\" alt=\"Meme by u/canispeaktoyourmangr\" width=\"675\" height=\"375\" loading=\"lazy\">$1.604881 trillion in daily reverse repo operations awarded at 0.05% interest to 80 Participants, setting another new all-time high.",
       "source": [
@@ -7103,7 +7148,7 @@
     },
     {
       "headline": "Another Federal Reserve President Richard Clarida Caught Insider Trading",
-      "description": "Fed president Clarida enters position on 2/27/2020 then realizes big gains following emergency measures he votes for a few days later on 3/2/2020",
+      "description": "Following <a href=\"#TwoFederalReservePresidentsSellStocksDueToEthicsConcerns-2021-09-09\">two Fed presidents selling stocks due to \"ethics concerns\"</a>, Fed president Clarida enters position on 2/27/2020 then realizes big gains following emergency measures he votes for a few days later on 3/2/2020",
       "source": [
         "https://extapps2.oge.gov/201/presiden.nsf/PAS+Index/DD6B6C47E3592957852586D9002EC1AB/$FILE/Richard-H-Clarida-2021-278.pdf",
         "https://twitter.com/D_Blanchflower/status/1444007218567856133",
@@ -7116,6 +7161,19 @@
         "Fed"
       ],
       "hidden": true
+    },
+    {
+      "headline": "Financial Times Exposes Bias",
+      "description": "<img src=\"/img/20211001-Financial_Times-Citadel.png\" alt=\"\" width=\"731\" height=\"462\" loading=\"lazy\">Citadel claims to be battling online trolls, when really the world is awakening to the financial crimes Citadel <a href=\"https://www.reddit.com/r/Superstonk/comments/q1hq60/new_citadel_violation_61_total/\" target=\"_blank\">commits on an ongoing basis</a>. Citadel tries to paint angry retail investors who wish to hold entities like Citadel accountable for the crimes they commit, and with more than comparatively minuscule fines that equate to a slap on the wrist, as conspiracy theorists and baseless angry mobs.",
+      "source": [
+        "https://www.ft.com/content/58dd7e9d-9483-4ec7-9fdf-1a45f373e8b5",
+        "https://www.reddit.com/r/Superstonk/comments/q1hq60/new_citadel_violation_61_total/",
+        "https://www.reddit.com/r/Superstonk/comments/q0f193/are_you_fucking_kidding_me_were_trolls_for/"
+      ],
+      "icon": "fas fa-newspaper",
+      "tags": [
+        "Citadel"
+      ]
     }
   ],
   "2021-10-02": [
@@ -7158,6 +7216,47 @@
         "https://www.reddit.com/r/Superstonk/comments/q1lkzq/computershare_new_high_score_winner_1004/",
         "https://www.reddit.com/r/Superstonk/comments/q1fmjf/float_chart_guy_is_back_with_update_3_420000_and/hff7xgi/?context=3",
         "https://www.reddit.com/r/Superstonk/comments/q1fmjf/float_chart_guy_is_back_with_update_3_420000_and/"
+      ],
+      "icon": "fab fa-cuttlefish",
+      "tags": [
+        "ComputerShare"
+      ]
+    }
+  ],
+  "2021-10-05": [
+    {
+      "headline": "ComputerShare Accounts Reach 460,xxx",
+      "description": "<img src=\"/img/ComputerShare-20211005.jpg\" alt=\"\" width=\"605\" height=\"900\" loading=\"lazy\">",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/q2bt0n/computershare_new_high_score_winner_1005/",
+        "https://www.reddit.com/r/GMEJungle/comments/q2bueh/computershare_new_high_score_winner_1005/"
+      ],
+      "icon": "fab fa-cuttlefish",
+      "tags": [
+        "ComputerShare"
+      ]
+    }
+  ],
+  "2021-10-07": [
+    {
+      "headline": "SPDR S&P Retail ETF $XRT Containing $GME Has 278% Short Interest",
+      "description": "Levels short now surpass levels leading up to the January sneeze.",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/q3858o/spdr_sp_retail_etf_ticker_xrt_gamestop_gme/",
+        ""
+      ],
+      "icon": "fas fa-shopping-basket",
+      "tags": [
+        "ETF",
+        "$GME"
+      ],
+      "hidden": true
+    },
+    {
+      "headline": "ComputerShare Accounts Reach 500,xxx",
+      "description": "<img src=\"/img/ComputerShare-20211007-ape_ring.png\" alt=\"meme by u/BoltFlower/\" width=\"\" height=\"\" loading=\"lazy\">",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/q3pdfq/computershare_new_high_score_winner_1007/"
       ],
       "icon": "fab fa-cuttlefish",
       "tags": [
