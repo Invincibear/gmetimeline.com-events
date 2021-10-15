@@ -5881,9 +5881,9 @@
     },
     {
       "headline": "Ryan Cohen Tweets South Park Clip",
-      "description": "<blockquote class=\"twitter-tweet\" data-theme=\"dark\"><p lang=\"und\" dir=\"ltr\"><a href=\"https://t.co/X5t4f8u5JG\">pic.twitter.com/X5t4f8u5JG</a></p>&mdash; Ryan Cohen (@ryancohen) <a href=\"https://twitter.com/ryancohen/status/1407896835096678402?ref_src=twsrc%5Etfw\">June 24, 2021</a></blockquote> <script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>It has been speculated by r/Superstonk apes that a pattern emerged of Mr. Cohen typically tweeting just prior to a t+21 surge in price.",
+      "description": "<img src=\"/img/RC-SouthPark_TP-20210624.png\" width=\"746\" height=\"657\" loading=\"lazy\">It has been speculated by r/Superstonk apes that a pattern emerged of Mr. Cohen typically tweeting just prior to a t+21 surge in price.",
       "source": [
-        "https://twitter.com/ryancohen/status/1407896835096678402?s=20",
+        "https://twitter.com/ryancohen/status/1407896835096678402",
         "https://www.reddit.com/r/Superstonk/comments/o6s7ha/new_ryan_cohen_tweet_terrance_and_phillip/",
         "https://www.reddit.com/r/Superstonk/comments/nycuk4/cohen_has_reached_the_same_conclusion_as_ucriands/",
         "https://www.reddit.com/r/Superstonk/comments/o7cdq4/ryan_cohen_told_us_that_today_was_not_gonna_shoot/",
@@ -7261,6 +7261,20 @@
       "icon": "fab fa-cuttlefish",
       "tags": [
         "ComputerShare"
+      ]
+    }
+  ],
+  "2021-10-12": [
+    {
+      "headline": "$3800 $GME Wick",
+      "description": "<img src=\"/img/20211012-3800_wick.png\" alt=\"\" width=\"238\" height=\"492\" loading=\"lazy\">While these glitches have been observed usually during after-hours trading, this glitch occurred in the middle of a trading session.",
+      "source": [
+        "",
+        "https://www.reddit.com/r/Superstonk/comments/q6yg2k/huge_wick_of_3800_glitches_back_on_the_menu/"
+      ],
+      "icon": "fas fa-search-dollar",
+      "tags": [
+        "glitches"
       ]
     }
   ],
