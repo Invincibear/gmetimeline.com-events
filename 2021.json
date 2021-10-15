@@ -278,11 +278,14 @@
       "headline": "Evening Conversations Between Robinhood and Citadel",
       "description": "<img src=\"/img/20210127-conversations.png\" alt=\"\" width=\"1440\" height=\"2560\" loading=\"lazy\">Included in documents from a Sep 2021 lawsuit are conversations between Robinhood &amp; Citadel.",
       "source": [
-        "https://fxnewsgroup.com/forex-news/retail-forex/short-squeeze-lawsuit-plaintiffs-slam-robinhood-citadel-securities-for-pfof/",
         "https://pdfhost.io/v/YPAly8dSy_Microsoft_Word_20210812_Corrected_Antitrust_First_Amended_Complaint_Revised",
+        "https://fxnewsgroup.com/forex-news/retail-forex/short-squeeze-lawsuit-plaintiffs-slam-robinhood-citadel-securities-for-pfof/",
+        "https://texasnewstoday.com/citadel-securities-faces-new-pressure-on-gamestop-frenzy/479300/",
         "https://web.archive.org/web/20210924052252/https://imgur.com/O8oRbVl",
         "https://www.reddit.com/r/Superstonk/comments/pu2o1j/new_evidence_pointing_to_conversations_between/",
-        "https://reddit.com/r/Superstonk/comments/ptns9m/im_gonna_put_this_right_here_boop_link_to_article/"
+        "https://reddit.com/r/Superstonk/comments/ptns9m/im_gonna_put_this_right_here_boop_link_to_article/",
+        "https://www.reddit.com/r/Superstonk/comments/q5xvp7/httpstwittercomlucykomisarstatus144757832977995366/",
+        "https://twitter.com/LucyKomisar/status/1447578329779953666"
       ],
       "icon": "fas fa-phone",
       "tags": [
@@ -7262,6 +7265,23 @@
       "tags": [
         "ComputerShare"
       ]
+    }
+  ],
+  "2021-10-11": [
+    {
+      "headline": "TDA Cost Basis",
+      "description": "<img src=\"/img/20211011-TDA_cost_basis.png\" alt=\"Screenshot by u/INTERGALACTIC_CAGR\" width=\"967\" height=\"160\" loading=\"lazy\">Users report their cost basis from TDA are multiples that of $GME all-time highs, implying the share price seen does not accurately reflect the price brokers are paying for shares.",
+      "source": [
+        "",
+        "https://www.reddit.com/r/Superstonk/comments/q695y3/holey_cost_basis_batman_wat_doin_tda/"
+      ],
+      "icon": "fas fa-search-dollar",
+      "tags": [
+        "TDA",
+        "broker-dealer",
+        "glitches"
+      ],
+      "hidden": true
     }
   ],
   "2021-10-12": [
