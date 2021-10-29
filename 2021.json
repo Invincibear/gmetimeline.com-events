@@ -3894,7 +3894,7 @@
       ],
       "icon": "fab fa-reddit",
       "tags": [
-        "$GME"
+        "options"
       ]
     },
     {
@@ -6695,6 +6695,7 @@
       ],
       "icon": "fas fa-search-dollar",
       "tags": [
+        "options",
         "glitches"
       ]
     },
