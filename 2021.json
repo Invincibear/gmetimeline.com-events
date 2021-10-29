@@ -7258,7 +7258,7 @@
     },
     {
       "headline": "ComputerShare Accounts Reach 500,xxx",
-      "description": "<img src=\"/img/ComputerShare-20211007-ape_ring.png\" alt=\"meme by u/BoltFlower/\" width=\"\" height=\"\" loading=\"lazy\">",
+      "description": "<img src=\"/img/ComputerShare-20211007-ape_ring.png\" alt=\"meme by u/BoltFlower\" width=\"\" height=\"\" loading=\"lazy\">",
       "source": [
         "https://www.reddit.com/r/Superstonk/comments/q3pdfq/computershare_new_high_score_winner_1007/"
       ],
@@ -7296,6 +7296,46 @@
       "icon": "fas fa-search-dollar",
       "tags": [
         "glitches"
+      ]
+    }
+  ],
+  "2021-10-14": [
+    {
+      "headline": "ComputerShare Accounts Reach 584,xxx",
+      "description": "<img src=\"/img/ComputerShare-20211014.jpg\" alt=\"meme by u/stopfuckingwithme\" width=\"640\" height=\"952\" loading=\"lazy\">",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/q8exym/computershare_new_high_score_winner_1014/"
+      ],
+      "icon": "fab fa-cuttlefish",
+      "tags": [
+        "ComputerShare"
+      ]
+    }
+  ],
+  "2021-10-26": [
+    {
+      "headline": "ComputerShare Accounts Reach 697,xxx",
+      "description": "<img src=\"/img/ComputerShare-20211026.jpg\" alt=\"meme by u/stopfuckingwithme\" width=\"720\" height=\"1071\" loading=\"lazy\">",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/qgmkct/computershare_new_high_score_winner_1026/"
+      ],
+      "icon": "fab fa-cuttlefish",
+      "tags": [
+        "ComputerShare"
+      ],
+      "hidden": true
+    }
+  ],
+  "2021-10-28": [
+    {
+      "headline": "ComputerShare Accounts Reach 715,xxx",
+      "description": "<img src=\"/img/ComputerShare-20211028.jpg\" alt=\"meme by u/stopfuckingwithme\" width=\"720\" height=\"1071\" loading=\"lazy\">",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/qi3kwz/computershare_new_high_score_winner_1028/"
+      ],
+      "icon": "fab fa-cuttlefish",
+      "tags": [
+        "ComputerShare"
       ]
     }
   ],
