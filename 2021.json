@@ -770,6 +770,17 @@
       ]
     },
     {
+      "headline": "Susquehanna and Wolverine Stop Executing Trades",
+      "description": "Only Citadel kept their trading platform running to ensure sufficient liquidity remained in the market while their HFT competitors disabled their systems.",
+      "source": [
+        "https://www.wsj.com/articles/gamestop-frenzy-causes-glitches-for-high-speed-traders-11611921604"
+      ],
+      "icon": "fas fa-water",
+      "tags": [
+        "Susquehanna"
+      ]
+    },
+    {
       "headline": "u/DeepFuckingValue YOLO Update",
       "description": "<img src=\"/img/DFV-20210128.png\" class=\"DFVYOLO\" width=\"960\" height=\"187\" loading=\"lazy\">DFV, after seeing ~$14.8M in unrealized gains disappear, still holds 50k shares and 500x 4/16/2021 $12 calls. Account balance, including cash and realized & unrealized gains, totals ~$33.2M",
       "source": "https://www.reddit.com/r/wallstreetbets/comments/l78uct/gme_yolo_update_jan_28_2021/",
@@ -7337,6 +7348,35 @@
       "icon": "fab fa-cuttlefish",
       "tags": [
         "ComputerShare"
+      ]
+    }
+  ],
+  "2021-11-05": [
+    {
+      "headline": "u/jasonwaterfalls96 Sues GameStop To Release The Raw Vote Count",
+      "description": "u/jasonwaterfalls96 is suing GameStop to release the non-normalized vote count of the last board election because there are numerous reports of shareholders unable to vote, yet the reported vote <a href=\"#GameStopAGMVoteCountAlmostEntirelyEqualsTotalFreeFloat-2021-06-09\">tallied nearly the entire free float</a>.",
+      "source": [
+        "https://www.reddit.com/r/Superstonk/comments/qnkoo6/guess_whati_sued_gamestopinvestor_relations_44/",
+        "https://www.reddit.com/r/Superstonk/comments/qpcwqu/heres_what_i_submitted_to_the_delaware_court_of/"
+      ],
+      "icon": "fas fa-gavel",
+      "tags": [
+        "lawsuit"
+      ]
+    }
+  ],
+  "2021-11-08": [
+    {
+      "headline": "Federal Reserve Claims Meme Stocks Like GameStop Pose Risks To Financial Stability",
+      "description": "To which u/Usmonster says; &quot;IF HOLDING A STOCK POSES A SYSTEMIC RISK, THEN WHAT DOES THAT TELL YOU ABOUT THE SYSTEM?!&quot;",
+      "source": [
+        "https://www.marketwatch.com/story/meme-stocks-like-gamestop-amc-pose-risks-to-financial-stability-fed-says-11636406879",
+        "https://www.reddit.com/r/Superstonk/comments/qpnwj0/blame_game_starting_up/"
+      ],
+      "icon": "fas fa-meh-rolling-eyes",
+      "tags": [
+        "MarketWatch",
+        "Fed"
       ]
     }
   ],
